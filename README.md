@@ -28,19 +28,11 @@ MediChain-Global acts like a **smart GPS and digital ledger** for healthcare —
 - Every donation or investment is recorded publicly on the blockchain.
 - Donors can **see exactly how their money is being used**.
 
-#### 2. End-to-End Supply Chain Monitoring
-- Medicines and equipment are digitally tagged and tracked from the factory to the clinic.
-- Prevents **theft**, **loss**, and **fake drugs** from entering the system.
-
-#### 3. Real-Time Project Verification
-- For projects like building clinics, progress is **verified with photos/videos** and **auditor approvals**.
-- Payments are only released when **real progress is confirmed**.
-
-#### 4. Digital Identity for Accountability
+#### 2. Digital Identity for Accountability
 - Everyone involved (e.g. clinic managers, auditors, suppliers) has a **secure digital ID**.
 - This makes it easy to **see who did what** and promotes **responsibility**.
 
----
+
 
 ## 🧠 Why We Use BlockDAG Technology
 
