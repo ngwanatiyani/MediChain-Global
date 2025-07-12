@@ -37,4 +37,40 @@ MediChain-Global acts like a **smart GPS and digital ledger** for healthcare —
 - Payments are only released when **real progress is confirmed**.
 
 #### 4. Digital Identity for Accountability
-- Everyone involved (e.g.
+- Everyone involved (e.g. clinic managers, auditors, suppliers) has a **secure digital ID**.
+- This makes it easy to **see who did what** and promotes **responsibility**.
+
+---
+
+## 🧠 Why We Use BlockDAG Technology
+
+MediChain-Global is built on **BlockDAG**, a next-gen blockchain system that’s:
+
+- 🛡️ **Tamper-proof**: Once data is recorded, it **can’t be changed**.
+- 🌐 **Scalable**: Can handle **millions of transactions** across borders.
+- ⚡ **Fast**: Instantly verifies actions and tracks resources in real time.
+- 💡 **Smart Contract Ready**: Uses Ethereum-based smart contracts for conditional payments and data validation.
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Technology                                 |
+|--------------|--------------------------------------------|
+| Frontend     | Next.js (React), TypeScript, Tailwind CSS  |
+| Smart Contracts | Solidity (Tested with Foundry)          |
+| Blockchain   | BlockDAG Network (EVM-compatible)          |
+| Web3 Tools   | ethers.js, WalletConnect                   |
+| File Storage | IPFS (InterPlanetary File System)          |
+
+---
+
+## 🌐 Real-World Impact
+
+MediChain-Global empowers:
+- **Donors** with trust.
+- **Governments** with insight.
+- **Clinics** with reliability.
+- **Patients** with access to safer, traceable medicine.
+
+We're building a **healthcare system you can trust — from the ground up.**
