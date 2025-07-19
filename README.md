@@ -66,4 +66,4 @@ MediChain-Global empowers:
 - **Patients** with access to safer, traceable medicine.
 
 We're building a **healthcare system you can trust — from the ground up.
-more updates coming soon**
+More updates coming soon**
