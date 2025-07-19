@@ -1,5 +1,5 @@
 
-# 🌍💊 MediChain-Global: Blockchain-Powered Healthcare Transparency
+## MediChain-Global: Blockchain-Powered Healthcare Transparency
 
 MediChain-Global is a powerful, blockchain-based platform designed to improve **trust**, **efficiency**, and **accountability** in the global healthcare system — especially in developing regions like **South Africa**.
 
